@@ -1,5 +1,5 @@
-# Valorant-ELO-Checker-Installer
-Windows executable version of my Valorant ELO Checker. This makes it easier for you to install and use my program.
+# Valorant ELO Checker Installer
+This is a Windows executable version of my Valorant ELO Checker. This makes it easier for you to install and use my program.
 Check out the source code here: https://github.com/clikbait295/Valorant-ELO-Checker
 # Installation 
 1. Clone the code (download zip, use git clone, etc)
