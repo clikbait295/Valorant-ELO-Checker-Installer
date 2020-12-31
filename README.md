@@ -2,7 +2,7 @@
 This is a Windows executable version of my Valorant ELO Checker. This makes it easier for you to install and use my program.
 Check out the source code here: https://github.com/clikbait295/Valorant-ELO-Checker
 # Installation 
-1. Clone the code (download zip, use git clone, etc)
+1. Clone the code (download zip, use git clone, etc) If you downloaded as a zip, unzip the file.
 2. Double-click the file "Valorant-ELO-Checker-Setup.exe" and follow the installation instructions. If Windows Defender says the file might be suspicious, just click on "Run Anyway." It throws this warning because I didn't digitally sign the program - THIS IS NOT MALICIOUS SOFTWARE!
 3. Now you should see a shortcut on you Desktop named "Valorant ELO Checker." Double-click that, and enter in your username and password, and check out your rank and internal ELO rating! See the manual below for more info.
 
